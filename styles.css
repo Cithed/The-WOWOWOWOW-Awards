@@ -1,0 +1,78 @@
+body{
+    background-image: url(https://cdn.impactinit.com/cdn/x/x@074faa904b/smss53/smsimg28/pv/isignstockcontributors/iss_8483_01503.jpg);
+    background-position: 20% 0%;
+}
+
+.title{
+    color: #ff8c00;
+    font-family: courgette;
+    text-align: center;
+    border:none;
+   
+}
+
+h3{
+    color: 	#f0e68c;
+    font-family: krub;
+    text-align: center;
+    line-height: 4em;
+}
+
+h4{
+    color: 	#fffacd;
+    text-align: center;
+    font-family: unica one;
+    line-height: 4em;
+}
+
+h1{
+    color: #ffdead;
+    text-align: center;
+    font-family:parisienne;
+    line-height:4em;
+    border:2px dotted #ff8c00;
+}
+
+img{
+    width: 335px;
+    float: none;
+}
+
+.left{
+    float: right;
+    width: 350px;
+    
+}
+
+.center{
+    float: none;
+    margin: 0px 150px;
+    
+}
+
+.nominees{
+    color:#ffdead;
+    font-family: bad script;
+    text-align:center;
+    font-size: 30px;
+}
+
+.name{
+    color:#ff4500;
+    font-family: bad script;
+}
+
+.intro{
+    color:#ff4500;
+    font-family: bad script;
+    text-align:center;
+}
+
+.winner{
+    color:#ffdab9;
+    font-family: sedgwick ave;
+    text-align:center;
+    border: 9px solid gold;
+    border-radius: 60px;
+    font-size: 50px;
+}
